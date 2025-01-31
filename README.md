@@ -22,7 +22,7 @@ The project is divided into two main phases:
 
 ### Phase 2: Windows Application
 
-- **Implementation**: All the algorithms from Phase 1 will be wrapped into a Windows 11 application using C++ and the JUCE framework.
+- **Implementation**: All the algorithms from Phase 1 will be wrapped into a Windows 11 application.
 - **GUI Design**: The application will follow Microsoft's Fluent Design System to provide a modern and intuitive user interface.
 - **Purpose**: The application aims to serve as a tool for students and researchers to experiment with and understand digital reverb algorithms.
 
@@ -32,11 +32,10 @@ The project is divided into two main phases:
 
 - **Python**: Ensure you have Python installed. You can download it from [python.org](https://www.python.org/).
 - **Jupyter**: Install Jupyter Notebook by running `pip install notebook`.
-- **Required Libraries**: Install the necessary Python libraries using `pip install librosa scipy matplotlib`.
+- **Required Libraries**: Install the necessary Python libraries using `pip install numpy matplotlib`.
 
 ### Installation
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/digital-reverb-algorithms.git
-   cd digital-reverb-algorithms
